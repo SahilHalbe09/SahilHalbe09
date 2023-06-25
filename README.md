@@ -43,11 +43,5 @@
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
-<div align="center">
-	
-[![GitHub Streak](https://streak-stats.demolab.com?user=SahilHalbe09&theme=dark)](https://git.io/streak-stats)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SahilHalbe09&theme=dark)
-
-</div>
-
+<img src="https://streak-stats.demolab.com?user=SahilHalbe09&theme=dark" alt="flexbox" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SahilHalbe09&theme=dark" alt="flexbox" />
